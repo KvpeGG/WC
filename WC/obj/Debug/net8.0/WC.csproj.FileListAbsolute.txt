@@ -1,0 +1,14 @@
+C:\Users\uczen\source\repos\WC\bin\Debug\net8.0\WC.exe
+C:\Users\uczen\source\repos\WC\bin\Debug\net8.0\WC.deps.json
+C:\Users\uczen\source\repos\WC\bin\Debug\net8.0\WC.runtimeconfig.json
+C:\Users\uczen\source\repos\WC\bin\Debug\net8.0\WC.dll
+C:\Users\uczen\source\repos\WC\bin\Debug\net8.0\WC.pdb
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\WC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\WC.AssemblyInfoInputs.cache
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\WC.AssemblyInfo.cs
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\WC.csproj.CoreCompileInputs.cache
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\WC.dll
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\refint\WC.dll
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\WC.pdb
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\WC.genruntimeconfig.cache
+C:\Users\uczen\source\repos\WC\obj\Debug\net8.0\ref\WC.dll
